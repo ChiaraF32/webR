@@ -14,7 +14,7 @@ const runBtn = document.getElementById("run");
 
 const webR = new WebR();
 ```
-
+j
 2. Default R code and data is created in in a `webR.evalR()` command. Note that `await` is used since this is an asynchronous operation.
 
 ```javascript
